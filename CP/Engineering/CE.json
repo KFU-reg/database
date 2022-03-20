@@ -1,0 +1,3279 @@
+[
+  {
+    "code": "0814140",
+    "name": "فيزياء عامة 1",
+    "crn": "27544",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "0830-0920",
+    "instructor": "شوقي محمود عوضه",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0817144"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814140",
+    "name": "فيزياء عامة 1",
+    "crn": "27545",
+    "credits": 3,
+    "section": "02",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "0830-0920",
+    "instructor": "فهيم احمد اسحاق",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0817144"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814140",
+    "name": "فيزياء عامة 1",
+    "crn": "27546",
+    "credits": 3,
+    "section": "03",
+    "days": [
+      1,
+      5
+    ],
+    "time": "1030-1145",
+    "instructor": "شوقي محمود عوضه",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0817144"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814140",
+    "name": "فيزياء عامة 1",
+    "crn": "33789",
+    "credits": 3,
+    "section": "04",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": "محمد علي كانون",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0817144"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814140",
+    "name": "فيزياء عامة 1",
+    "crn": "48584",
+    "credits": 3,
+    "section": "05",
+    "days": [
+      2,
+      4
+    ],
+    "time": "0900-1015",
+    "instructor": "محمد علي كانون",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0817144"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814140",
+    "name": "فيزياء عامة 1",
+    "crn": "49499",
+    "credits": 3,
+    "section": "06",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "0930-1020",
+    "instructor": "شوقي محمود عوضه",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0817144"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814140",
+    "name": "فيزياء عامة 1",
+    "crn": "59965",
+    "credits": 3,
+    "section": "07",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1430-1545",
+    "instructor": "محمد علي كانون",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0817144"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814140",
+    "name": "فيزياء عامة 1",
+    "crn": "52928",
+    "credits": 3,
+    "section": "08",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "0930-1020",
+    "instructor": "فهيم احمد اسحاق",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0817144"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814140",
+    "name": "فيزياء عامة 1",
+    "crn": "58200",
+    "credits": 3,
+    "section": "09",
+    "days": [
+      1,
+      5
+    ],
+    "time": "1030-1145",
+    "instructor": "ساجد علي الانصاري",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0817144"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814140",
+    "name": "فيزياء عامة 1",
+    "crn": "58201",
+    "credits": 3,
+    "section": "10",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": "فهيم احمد اسحاق",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0817144"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814144",
+    "name": "معمل فيزياء عامة 1",
+    "crn": "61957",
+    "credits": 1,
+    "section": "01",
+    "days": [
+      5
+    ],
+    "time": "1230-1410",
+    "instructor": "عثمان عبدالله العبد المحسن",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814140"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814144",
+    "name": "معمل فيزياء عامة 1",
+    "crn": "61959",
+    "credits": 1,
+    "section": "02",
+    "days": [
+      2
+    ],
+    "time": "1030-1210",
+    "instructor": "شوقي محمود عوضه",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814140"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814144",
+    "name": "معمل فيزياء عامة 1",
+    "crn": "61961",
+    "credits": 1,
+    "section": "03",
+    "days": [
+      1
+    ],
+    "time": "1230-1410",
+    "instructor": "عثمان عبدالله العبد المحسن",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814140"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814144",
+    "name": "معمل فيزياء عامة 1",
+    "crn": "61962",
+    "credits": 1,
+    "section": "04",
+    "days": [
+      4
+    ],
+    "time": "1600-1750",
+    "instructor": "حسن احمد  حسن خاطر",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814140"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814144",
+    "name": "معمل فيزياء عامة 1",
+    "crn": "61963",
+    "credits": 1,
+    "section": "05",
+    "days": [
+      5
+    ],
+    "time": "1230-1410",
+    "instructor": "فهيم احمد اسحاق",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814140"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814144",
+    "name": "معمل فيزياء عامة 1",
+    "crn": "61964",
+    "credits": 1,
+    "section": "06",
+    "days": [
+      4
+    ],
+    "time": "1600-1750",
+    "instructor": "فهيم احمد اسحاق",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814140"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814144",
+    "name": "معمل فيزياء عامة 1",
+    "crn": "61965",
+    "credits": 1,
+    "section": "07",
+    "days": [
+      3
+    ],
+    "time": "0830-1010",
+    "instructor": "عثمان عبدالله العبد المحسن",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814140"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814144",
+    "name": "معمل فيزياء عامة 1",
+    "crn": "61966",
+    "credits": 1,
+    "section": "08",
+    "days": [
+      2
+    ],
+    "time": "1600-1750",
+    "instructor": "حسن احمد  حسن خاطر",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814140"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814144",
+    "name": "معمل فيزياء عامة 1",
+    "crn": "61967",
+    "credits": 1,
+    "section": "09",
+    "days": [
+      1
+    ],
+    "time": "1230-1410",
+    "instructor": "فهيم احمد اسحاق",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814140"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814144",
+    "name": "معمل فيزياء عامة 1",
+    "crn": "59975",
+    "credits": 1,
+    "section": "10",
+    "days": [
+      4
+    ],
+    "time": "1030-1220",
+    "instructor": "شوقي محمود عوضه",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814140"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814144",
+    "name": "معمل فيزياء عامة 1",
+    "crn": "59976",
+    "credits": 1,
+    "section": "11",
+    "days": [
+      2
+    ],
+    "time": "1030-1220",
+    "instructor": "ساجد علي الانصاري",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814140"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814144",
+    "name": "معمل فيزياء عامة 1",
+    "crn": "61968",
+    "credits": 1,
+    "section": "12",
+    "days": [
+      1
+    ],
+    "time": "0830-1010",
+    "instructor": "اشرف سعيد محمد حسن فرحه",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814140"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814144",
+    "name": "معمل فيزياء عامة 1",
+    "crn": "61969",
+    "credits": 1,
+    "section": "13",
+    "days": [
+      1
+    ],
+    "time": "0830-1010",
+    "instructor": "هشام  قطب",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814140"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814144",
+    "name": "معمل فيزياء عامة 1",
+    "crn": "61970",
+    "credits": 1,
+    "section": "14",
+    "days": [
+      3
+    ],
+    "time": "0830-1010",
+    "instructor": "هشام  قطب",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814140"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814144",
+    "name": "معمل فيزياء عامة 1",
+    "crn": "61971",
+    "credits": 1,
+    "section": "15",
+    "days": [
+      1
+    ],
+    "time": "1030-1210",
+    "instructor": "JAVED  MAZHER",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814140"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814144",
+    "name": "معمل فيزياء عامة 1",
+    "crn": "61972",
+    "credits": 1,
+    "section": "16",
+    "days": [
+      1
+    ],
+    "time": "1030-1210",
+    "instructor": "عثمان عبدالله العبد المحسن",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814140"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814144",
+    "name": "معمل فيزياء عامة 1",
+    "crn": "58209",
+    "credits": 1,
+    "section": "19",
+    "days": [
+      5
+    ],
+    "time": "1030-1210",
+    "instructor": "اشرف سعيد محمد حسن فرحه",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814140"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814144",
+    "name": "معمل فيزياء عامة 1",
+    "crn": "58218",
+    "credits": 1,
+    "section": "20",
+    "days": [
+      3
+    ],
+    "time": "1600-1740",
+    "instructor": "حسن احمد  حسن خاطر",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814140"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0815140",
+    "name": "كيمياء عامة  1",
+    "crn": "34932",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "0930-1020",
+    "instructor": "عبدالواحد رشاد سيد عبدالواحد",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0815140",
+    "name": "كيمياء عامة  1",
+    "crn": "34933",
+    "credits": 3,
+    "section": "02",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "0930-1020",
+    "instructor": "سعد  شعبان",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0815140",
+    "name": "كيمياء عامة  1",
+    "crn": "34934",
+    "credits": 3,
+    "section": "03",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "1230-1320",
+    "instructor": "عبادة صبحي مصطفى عبدالرحمن",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0815140",
+    "name": "كيمياء عامة  1",
+    "crn": "34935",
+    "credits": 3,
+    "section": "04",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "0830-0920",
+    "instructor": "رانجيت كومار كارناتى",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0815140",
+    "name": "كيمياء عامة  1",
+    "crn": "49335",
+    "credits": 3,
+    "section": "05",
+    "days": [
+      1,
+      5
+    ],
+    "time": "1030-1145",
+    "instructor": "رانجيت كومار كارناتى",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0815140",
+    "name": "كيمياء عامة  1",
+    "crn": "52011",
+    "credits": 3,
+    "section": "06",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": "علي  العجمي",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0815140",
+    "name": "كيمياء عامة  1",
+    "crn": "52531",
+    "credits": 3,
+    "section": "07",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": "عبدالله احمد البشير",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0815140",
+    "name": "كيمياء عامة  1",
+    "crn": "52532",
+    "credits": 3,
+    "section": "08",
+    "days": [
+      2,
+      4
+    ],
+    "time": "0900-1015",
+    "instructor": "محمد  شاكر",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0815140",
+    "name": "كيمياء عامة  1",
+    "crn": "52536",
+    "credits": 3,
+    "section": "09",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "1230-1320",
+    "instructor": "محمد جوده عبدالحليم محمود",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0815140",
+    "name": "كيمياء عامة  1",
+    "crn": "52537",
+    "credits": 3,
+    "section": "10",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1230-1345",
+    "instructor": "هاني امين الصاوي مصطفى",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0815140",
+    "name": "كيمياء عامة  1",
+    "crn": "61457",
+    "credits": 3,
+    "section": "11",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1230-1354",
+    "instructor": "عبدالواحد رشاد سيد عبدالواحد",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0815140",
+    "name": "كيمياء عامة  1",
+    "crn": "61463",
+    "credits": 3,
+    "section": "12",
+    "days": [
+      1,
+      5
+    ],
+    "time": "1030-1145",
+    "instructor": "محمد  شاكر",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0815140",
+    "name": "كيمياء عامة  1",
+    "crn": "61465",
+    "credits": 3,
+    "section": "13",
+    "days": [
+      2,
+      4
+    ],
+    "time": "0900-1015",
+    "instructor": "هاني امين الصاوي مصطفى",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200106",
+    "name": "الرسم الهندسي",
+    "crn": "39168",
+    "credits": 2,
+    "section": "01",
+    "days": [
+      2
+    ],
+    "time": "0900-1050",
+    "instructor": "زياد نايف شطناوي",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200106",
+    "name": "الرسم الهندسي",
+    "crn": "39169",
+    "credits": 2,
+    "section": "02",
+    "days": [
+      3
+    ],
+    "time": "1330-1520",
+    "instructor": "محمد انيق عول",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200106",
+    "name": "الرسم الهندسي",
+    "crn": "39170",
+    "credits": 2,
+    "section": "03",
+    "days": [
+      4
+    ],
+    "time": "0800-0950",
+    "instructor": "زياد نايف شطناوي",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200106",
+    "name": "الرسم الهندسي",
+    "crn": "39171",
+    "credits": 2,
+    "section": "04",
+    "days": [
+      4
+    ],
+    "time": "1030-1220",
+    "instructor": "كفاية الله خان محمد حياة",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200106",
+    "name": "الرسم الهندسي",
+    "crn": "39172",
+    "credits": 2,
+    "section": "05",
+    "days": [
+      3
+    ],
+    "time": "1230-1420",
+    "instructor": "كفاية الله خان محمد حياة",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200106",
+    "name": "الرسم الهندسي",
+    "crn": "48358",
+    "credits": 2,
+    "section": "07",
+    "days": [
+      5
+    ],
+    "time": "1030-1220",
+    "instructor": "محمد انيق عول",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200106",
+    "name": "الرسم الهندسي",
+    "crn": "48776",
+    "credits": 2,
+    "section": "08",
+    "days": [
+      3
+    ],
+    "time": "0800-0950",
+    "instructor": "محمد انيق عول",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200106",
+    "name": "الرسم الهندسي",
+    "crn": "49055",
+    "credits": 2,
+    "section": "09",
+    "days": [
+      3
+    ],
+    "time": "0800-0950",
+    "instructor": "زياد نايف شطناوي",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200106",
+    "name": "الرسم الهندسي",
+    "crn": "52604",
+    "credits": 2,
+    "section": "10",
+    "days": [
+      5
+    ],
+    "time": "1230-1420",
+    "instructor": "كفاية الله خان محمد حياة",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200106",
+    "name": "الرسم الهندسي",
+    "crn": "52605",
+    "credits": 2,
+    "section": "11",
+    "days": [
+      1
+    ],
+    "time": "1330-1520",
+    "instructor": "محيط  الرحمان",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200106",
+    "name": "الرسم الهندسي",
+    "crn": "54635",
+    "credits": 2,
+    "section": "13",
+    "days": [
+      4
+    ],
+    "time": "0830-1020",
+    "instructor": "هشام  القرشي",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200106",
+    "name": "الرسم الهندسي",
+    "crn": "56541",
+    "credits": 2,
+    "section": "14",
+    "days": [
+      1
+    ],
+    "time": "1530-1720",
+    "instructor": "قمر  الاسلام",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200106",
+    "name": "الرسم الهندسي",
+    "crn": "56542",
+    "credits": 2,
+    "section": "15",
+    "days": [
+      2
+    ],
+    "time": "1300-1450",
+    "instructor": "هشام  القرشي",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200106",
+    "name": "الرسم الهندسي",
+    "crn": "56543",
+    "credits": 2,
+    "section": "16",
+    "days": [
+      2
+    ],
+    "time": "1300-1450",
+    "instructor": "عارف  الزمان",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200106",
+    "name": "الرسم الهندسي",
+    "crn": "56544",
+    "credits": 2,
+    "section": "17",
+    "days": [
+      3
+    ],
+    "time": "1530-1720",
+    "instructor": "سيد  ابوشعيب",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "1722133",
+    "name": "إنشاء انجليزي 1",
+    "crn": "39226",
+    "credits": 2,
+    "section": "01",
+    "days": [
+      1
+    ],
+    "time": "1230-1410",
+    "instructor": "كميل  الحرز",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "1722133",
+    "name": "إنشاء انجليزي 1",
+    "crn": "39227",
+    "credits": 2,
+    "section": "02",
+    "days": [
+      1
+    ],
+    "time": "1030-1210",
+    "instructor": "راجا  سيخار",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "1722133",
+    "name": "إنشاء انجليزي 1",
+    "crn": "39228",
+    "credits": 2,
+    "section": "03",
+    "days": [
+      4
+    ],
+    "time": "0900-1040",
+    "instructor": "عليم الله  خان",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "1722133",
+    "name": "إنشاء انجليزي 1",
+    "crn": "39229",
+    "credits": 2,
+    "section": "04",
+    "days": [
+      2
+    ],
+    "time": "0900-1040",
+    "instructor": "عليم الله  خان",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "1722133",
+    "name": "إنشاء انجليزي 1",
+    "crn": "42638",
+    "credits": 2,
+    "section": "05",
+    "days": [
+      2
+    ],
+    "time": "1230-1410",
+    "instructor": "عليم الله  خان",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "1722133",
+    "name": "إنشاء انجليزي 1",
+    "crn": "49183",
+    "credits": 2,
+    "section": "06",
+    "days": [
+      4
+    ],
+    "time": "1230-1410",
+    "instructor": "عبدالله يوسف أبوقبع",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "1722133",
+    "name": "إنشاء انجليزي 1",
+    "crn": "49184",
+    "credits": 2,
+    "section": "07",
+    "days": [
+      5
+    ],
+    "time": "1030-1210",
+    "instructor": "جاسم  الحرز",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "1722133",
+    "name": "إنشاء انجليزي 1",
+    "crn": "49185",
+    "credits": 2,
+    "section": "08",
+    "days": [
+      3
+    ],
+    "time": "1230-1410",
+    "instructor": "جاسم  الحرز",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "1722133",
+    "name": "إنشاء انجليزي 1",
+    "crn": "54454",
+    "credits": 2,
+    "section": "09",
+    "days": [
+      4
+    ],
+    "time": "1230-1410",
+    "instructor": "راجا  سيخار",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "1722133",
+    "name": "إنشاء انجليزي 1",
+    "crn": "57857",
+    "credits": 2,
+    "section": "10",
+    "days": [
+      1
+    ],
+    "time": "1400-1540",
+    "instructor": "عليم الله  خان",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "1722133",
+    "name": "إنشاء انجليزي 1",
+    "crn": "60274",
+    "credits": 2,
+    "section": "11",
+    "days": [
+      4
+    ],
+    "time": "0900-1040",
+    "instructor": "عبدالله يوسف أبوقبع",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "1722133",
+    "name": "إنشاء انجليزي 1",
+    "crn": "60275",
+    "credits": 2,
+    "section": "12",
+    "days": [
+      5
+    ],
+    "time": "1400-1540",
+    "instructor": "عبدالله يوسف أبوقبع",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "1722133",
+    "name": "إنشاء انجليزي 1",
+    "crn": "60276",
+    "credits": 2,
+    "section": "13",
+    "days": [
+      3
+    ],
+    "time": "1230-1410",
+    "instructor": "عمر بن عبدالعزيز الدوسري",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "1722133",
+    "name": "إنشاء انجليزي 1",
+    "crn": "60277",
+    "credits": 2,
+    "section": "14",
+    "days": [
+      4
+    ],
+    "time": "1430-1610",
+    "instructor": "عمر بن عبدالعزيز الدوسري",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200100",
+    "name": "مدخل الى الهندسة",
+    "crn": "27484",
+    "credits": 1,
+    "section": "01",
+    "days": [
+      2
+    ],
+    "time": "1430-1520",
+    "instructor": "سيد صادق علي",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200100",
+    "name": "مدخل الى الهندسة",
+    "crn": "27485",
+    "credits": 1,
+    "section": "02",
+    "days": [
+      2
+    ],
+    "time": "1230-1320",
+    "instructor": "سيد صادق علي",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200100",
+    "name": "مدخل الى الهندسة",
+    "crn": "27486",
+    "credits": 1,
+    "section": "03",
+    "days": [
+      3
+    ],
+    "time": "0930-1020",
+    "instructor": "عبدالرحمن  المذن",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200100",
+    "name": "مدخل الى الهندسة",
+    "crn": "49050",
+    "credits": 1,
+    "section": "04",
+    "days": [
+      2
+    ],
+    "time": "0900-0950",
+    "instructor": " ",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200100",
+    "name": "مدخل الى الهندسة",
+    "crn": "48357",
+    "credits": 1,
+    "section": "07",
+    "days": [
+      1
+    ],
+    "time": "0930-1020",
+    "instructor": "عبدالرحمن  المذن",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200100",
+    "name": "مدخل الى الهندسة",
+    "crn": "52594",
+    "credits": 1,
+    "section": "08",
+    "days": [
+      5
+    ],
+    "time": "0830-0920",
+    "instructor": "سيد صادق علي",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200100",
+    "name": "مدخل الى الهندسة",
+    "crn": "52595",
+    "credits": 1,
+    "section": "09",
+    "days": [
+      1
+    ],
+    "time": "1030-1120",
+    "instructor": " ",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200100",
+    "name": "مدخل الى الهندسة",
+    "crn": "52596",
+    "credits": 1,
+    "section": "10",
+    "days": [
+      4
+    ],
+    "time": "1430-1520",
+    "instructor": "عبدالرحمن  المذن",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817144",
+    "name": "تفاضل وتكامل 1",
+    "crn": "39220",
+    "credits": 4,
+    "section": "01",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1230-1410",
+    "instructor": "حسن  السلمان",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817144",
+    "name": "تفاضل وتكامل 1",
+    "crn": "39221",
+    "credits": 4,
+    "section": "02",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1230-1410",
+    "instructor": "احمد علي محمد الغافلي",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817144",
+    "name": "تفاضل وتكامل 1",
+    "crn": "39222",
+    "credits": 4,
+    "section": "03",
+    "days": [
+      2,
+      4
+    ],
+    "time": "0830-1010",
+    "instructor": " ",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817144",
+    "name": "تفاضل وتكامل 1",
+    "crn": "39223",
+    "credits": 4,
+    "section": "04",
+    "days": [
+      1,
+      5
+    ],
+    "time": "1030-1210",
+    "instructor": " ",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817144",
+    "name": "تفاضل وتكامل 1",
+    "crn": "49301",
+    "credits": 4,
+    "section": "05",
+    "days": [
+      1,
+      5
+    ],
+    "time": "1030-1210",
+    "instructor": " ",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817144",
+    "name": "تفاضل وتكامل 1",
+    "crn": "51917",
+    "credits": 4,
+    "section": "06",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "1230-1340",
+    "instructor": " ",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817144",
+    "name": "تفاضل وتكامل 1",
+    "crn": "52552",
+    "credits": 4,
+    "section": "07",
+    "days": [
+      2,
+      4
+    ],
+    "time": "0830-1010",
+    "instructor": " ",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817144",
+    "name": "تفاضل وتكامل 1",
+    "crn": "52553",
+    "credits": 4,
+    "section": "08",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1210",
+    "instructor": "حسن  السلمان",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817144",
+    "name": "تفاضل وتكامل 1",
+    "crn": "61274",
+    "credits": 4,
+    "section": "09",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1230-1410",
+    "instructor": " ",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817144",
+    "name": "تفاضل وتكامل 1",
+    "crn": "61275",
+    "credits": 4,
+    "section": "10",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "1230-1340",
+    "instructor": " ",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817144",
+    "name": "تفاضل وتكامل 1",
+    "crn": "61276",
+    "credits": 4,
+    "section": "11",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "1230-1340",
+    "instructor": " ",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817144",
+    "name": "تفاضل وتكامل 1",
+    "crn": "61278",
+    "credits": 4,
+    "section": "12",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1210",
+    "instructor": "احمد علي محمد الغافلي",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817144",
+    "name": "تفاضل وتكامل 1",
+    "crn": "61279",
+    "credits": 4,
+    "section": "13",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1430-1610",
+    "instructor": " ",
+    "semster_index": 1,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814141",
+    "name": "فيزياء عامة - 2",
+    "crn": "27547",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "0830-0920",
+    "instructor": "ساجد علي الانصاري",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0814141",
+    "name": "فيزياء عامة - 2",
+    "crn": "35731",
+    "credits": 3,
+    "section": "02",
+    "days": [
+      2,
+      4
+    ],
+    "time": "0900-1015",
+    "instructor": "ساجد علي الانصاري",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0814145",
+    "name": "معمل فيزياء عامة 2",
+    "crn": "45487",
+    "credits": 1,
+    "section": "01",
+    "days": [
+      1
+    ],
+    "time": "1600-1750",
+    "instructor": " ",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814141"
+    ],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0814145",
+    "name": "معمل فيزياء عامة 2",
+    "crn": "45488",
+    "credits": 1,
+    "section": "02",
+    "days": [
+      2
+    ],
+    "time": "1600-1750",
+    "instructor": "ناجح محمد شعلان",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814141"
+    ],
+    "available": "Available"
+  },
+  {
+    "code": "0814145",
+    "name": "معمل فيزياء عامة 2",
+    "crn": "45499",
+    "credits": 1,
+    "section": "03",
+    "days": [
+      1
+    ],
+    "time": "1600-1750",
+    "instructor": "عثمان عبدالله العبد المحسن",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814141"
+    ],
+    "available": "Available"
+  },
+  {
+    "code": "0815142",
+    "name": " كيمياء عامة -2",
+    "crn": "34937",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "0830-0920",
+    "instructor": "حسان  حمود",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0815142",
+    "name": " كيمياء عامة -2",
+    "crn": "42880",
+    "credits": 3,
+    "section": "02",
+    "days": [
+      2,
+      4
+    ],
+    "time": "0900-1015",
+    "instructor": "أكبر علي محم",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0815142",
+    "name": " كيمياء عامة -2",
+    "crn": "61469",
+    "credits": 3,
+    "section": "03",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1230-1354",
+    "instructor": "حسان  حمود",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "7401301",
+    "name": "قضايا ثقافية معاصرة",
+    "crn": "49622",
+    "credits": 2,
+    "section": "نA",
+    "days": [
+      1
+    ],
+    "time": "2100-2125",
+    "instructor": " ",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0817145",
+    "name": "تفاضل وتكامل 2",
+    "crn": "58529",
+    "credits": 4,
+    "section": "01",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "1230-1340",
+    "instructor": " ",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817145",
+    "name": "تفاضل وتكامل 2",
+    "crn": "58530",
+    "credits": 4,
+    "section": "02",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1230-1410",
+    "instructor": "عبدالله  الذياب",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0817145",
+    "name": "تفاضل وتكامل 2",
+    "crn": "61288",
+    "credits": 4,
+    "section": "03",
+    "days": [
+      2,
+      4
+    ],
+    "time": "0830-1010",
+    "instructor": " ",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817145",
+    "name": "تفاضل وتكامل 2",
+    "crn": "61289",
+    "credits": 4,
+    "section": "04",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "1430-1610",
+    "instructor": " ",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817145",
+    "name": "تفاضل وتكامل 2",
+    "crn": "56945",
+    "credits": 4,
+    "section": "05",
+    "days": [
+      1,
+      5
+    ],
+    "time": "0830-1010",
+    "instructor": "عبدالله  الذياب",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "1722134",
+    "name": "إنشاء انجليزي 2",
+    "crn": "39230",
+    "credits": 2,
+    "section": "01",
+    "days": [
+      2
+    ],
+    "time": "1030-1210",
+    "instructor": "محمد  الورديان",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "1722134",
+    "name": "إنشاء انجليزي 2",
+    "crn": "42629",
+    "credits": 2,
+    "section": "02",
+    "days": [
+      4
+    ],
+    "time": "1030-1210",
+    "instructor": "محمد  القطاونة",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0815143",
+    "name": "معمل كيمياء عامة",
+    "crn": "34939",
+    "credits": 1,
+    "section": "01",
+    "days": [
+      3
+    ],
+    "time": "1300-1450",
+    "instructor": "رانجيت كومار كارناتى",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0815143",
+    "name": "معمل كيمياء عامة",
+    "crn": "42882",
+    "credits": 1,
+    "section": "02",
+    "days": [
+      4
+    ],
+    "time": "1300-1450",
+    "instructor": "رافع الامين الجاك القرشي",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0815143",
+    "name": "معمل كيمياء عامة",
+    "crn": "45454",
+    "credits": 1,
+    "section": "03",
+    "days": [
+      2
+    ],
+    "time": "1300-1450",
+    "instructor": "رافع الامين الجاك القرشي",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0815143",
+    "name": "معمل كيمياء عامة",
+    "crn": "45455",
+    "credits": 1,
+    "section": "04",
+    "days": [
+      5
+    ],
+    "time": "1300-1450",
+    "instructor": "رانجيت كومار كارناتى",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0817244",
+    "name": "رياضيات متعددة المتغيرات",
+    "crn": "39191",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": " ",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817244",
+    "name": "رياضيات متعددة المتغيرات",
+    "crn": "42879",
+    "credits": 3,
+    "section": "02",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1230-1345",
+    "instructor": "اشتياق أمير زادا علي",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817244",
+    "name": "رياضيات متعددة المتغيرات",
+    "crn": "58531",
+    "credits": 3,
+    "section": "03",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "0830-0920",
+    "instructor": " ",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817244",
+    "name": "رياضيات متعددة المتغيرات",
+    "crn": "61282",
+    "credits": 3,
+    "section": "04",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "1230-1320",
+    "instructor": " ",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "1722138",
+    "name": "اساسيات التواصل الخطابي",
+    "crn": "39232",
+    "credits": 2,
+    "section": "01",
+    "days": [
+      5
+    ],
+    "time": "1230-1410",
+    "instructor": "قرشي عبدالله الجزولي",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "1722138",
+    "name": "اساسيات التواصل الخطابي",
+    "crn": "42636",
+    "credits": 2,
+    "section": "02",
+    "days": [
+      5
+    ],
+    "time": "1030-1210",
+    "instructor": "راجا  سيخار",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "1722138",
+    "name": "اساسيات التواصل الخطابي",
+    "crn": "49187",
+    "credits": 2,
+    "section": "03",
+    "days": [
+      1
+    ],
+    "time": "1230-1410",
+    "instructor": "قرشي عبدالله الجزولي",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "1722138",
+    "name": "اساسيات التواصل الخطابي",
+    "crn": "53237",
+    "credits": 2,
+    "section": "04",
+    "days": [
+      1
+    ],
+    "time": "1400-1540",
+    "instructor": "محمد  الورديان",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "7401101",
+    "name": "العقيدة الإسلامية والمذاهب",
+    "crn": "49619",
+    "credits": 2,
+    "section": "نA",
+    "days": [
+      1
+    ],
+    "time": "1400-1425",
+    "instructor": " ",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2203101",
+    "name": "جيولوجيا",
+    "crn": "39211",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "0830-0920",
+    "instructor": "عمار فايز الشايب",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0817240",
+    "name": "معادلات تفاضلية",
+    "crn": "26720",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "0930-1020",
+    "instructor": " ",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817240",
+    "name": "معادلات تفاضلية",
+    "crn": "61281",
+    "credits": 3,
+    "section": "02",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": "عادل  المندوه",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0817240",
+    "name": "معادلات تفاضلية",
+    "crn": "56947",
+    "credits": 3,
+    "section": "03",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1230-1345",
+    "instructor": " ",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817246",
+    "name": "الجبر الخطي",
+    "crn": "56998",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      2,
+      4
+    ],
+    "time": "0900-1015",
+    "instructor": " ",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817246",
+    "name": "الجبر الخطي",
+    "crn": "61283",
+    "credits": 3,
+    "section": "02",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "0930-1020",
+    "instructor": " ",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0817246",
+    "name": "الجبر الخطي",
+    "crn": "56946",
+    "credits": 3,
+    "section": "03",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "1230-1320",
+    "instructor": " ",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "1722137",
+    "name": "الكتابة التقنية",
+    "crn": "27541",
+    "credits": 2,
+    "section": "01",
+    "days": [
+      2
+    ],
+    "time": "1230-1410",
+    "instructor": "قرشي عبدالله الجزولي",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "1722137",
+    "name": "الكتابة التقنية",
+    "crn": "42633",
+    "credits": 2,
+    "section": "02",
+    "days": [
+      2
+    ],
+    "time": "1030-1210",
+    "instructor": "كميل  الحرز",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "1722137",
+    "name": "الكتابة التقنية",
+    "crn": "54456",
+    "credits": 2,
+    "section": "03",
+    "days": [
+      4
+    ],
+    "time": "1030-1210",
+    "instructor": "كميل  الحرز",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "1722137",
+    "name": "الكتابة التقنية",
+    "crn": "56861",
+    "credits": 2,
+    "section": "04",
+    "days": [
+      4
+    ],
+    "time": "1800-1940",
+    "instructor": "قرشي عبدالله الجزولي",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "1722137",
+    "name": "الكتابة التقنية",
+    "crn": "57859",
+    "credits": 2,
+    "section": "5",
+    "days": [
+      3
+    ],
+    "time": "1230-1410",
+    "instructor": " ",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "1722137",
+    "name": "الكتابة التقنية",
+    "crn": "57861",
+    "credits": 2,
+    "section": "6",
+    "days": [
+      2
+    ],
+    "time": "1400-1540",
+    "instructor": "كميل  الحرز",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2203282",
+    "name": "مواد انشاء",
+    "crn": "47018",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      2,
+      4
+    ],
+    "time": "0900-1015",
+    "instructor": "عارف  الزمان",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200203",
+    "name": "ديناميكا",
+    "crn": "60404",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      1,
+      5
+    ],
+    "time": "1030-1145",
+    "instructor": "حسام شويخي عبدالحفيظ",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200203",
+    "name": "ديناميكا",
+    "crn": "39174",
+    "credits": 3,
+    "section": "02",
+    "days": [
+      1,
+      5
+    ],
+    "time": "1030-1145",
+    "instructor": "محمد السيد صابر حسن بدر",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200203",
+    "name": "ديناميكا",
+    "crn": "60397",
+    "credits": 3,
+    "section": "03",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": "حسين  التمار",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200203",
+    "name": "ديناميكا",
+    "crn": "60398",
+    "credits": 3,
+    "section": "04",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": "حسام شويخي عبدالحفيظ",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200202",
+    "name": "مقاومه مواد",
+    "crn": "34660",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      2,
+      4
+    ],
+    "time": "0730-0845",
+    "instructor": "اكبر  نياز",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200202",
+    "name": "مقاومه مواد",
+    "crn": "42722",
+    "credits": 3,
+    "section": "02",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "0930-1020",
+    "instructor": "اكبر  نياز",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0901204",
+    "name": "البرمجة الهندسية",
+    "crn": "47621",
+    "credits": 3,
+    "section": "03",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1230-1345",
+    "instructor": " ",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0901204",
+    "name": "البرمجة الهندسية",
+    "crn": "56915",
+    "credits": 3,
+    "section": "04",
+    "days": [
+      1,
+      5
+    ],
+    "time": "1230-1345",
+    "instructor": " ",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0901204",
+    "name": "البرمجة الهندسية",
+    "crn": "56920",
+    "credits": 3,
+    "section": "05",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": " ",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0901204",
+    "name": "البرمجة الهندسية",
+    "crn": "28330",
+    "credits": 3,
+    "section": "1",
+    "days": [
+      2,
+      4
+    ],
+    "time": "0900-1015",
+    "instructor": " ",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0901204",
+    "name": "البرمجة الهندسية",
+    "crn": "28331",
+    "credits": 3,
+    "section": "2",
+    "days": [
+      1,
+      5
+    ],
+    "time": "1030-1145",
+    "instructor": " ",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200309",
+    "name": "ميكانيكا الموائع",
+    "crn": "34694",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      1,
+      5
+    ],
+    "time": "1030-1145",
+    "instructor": "محمد يوسف محمد يونس",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200309",
+    "name": "ميكانيكا الموائع",
+    "crn": "59479",
+    "credits": 3,
+    "section": "03",
+    "days": [
+      1,
+      3
+    ],
+    "time": "1430-1545",
+    "instructor": "توفيق عبدالعزيز عمر المغنم",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200309",
+    "name": "ميكانيكا الموائع",
+    "crn": "56549",
+    "credits": 3,
+    "section": "1",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": "محمد يوسف محمد يونس",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2203360",
+    "name": "هندسة الجيو تقنية",
+    "crn": "44745",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "0830-0920",
+    "instructor": "فيصل ابراهيم شلبي",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200307",
+    "name": "الاقتصاد الهندسي",
+    "crn": "36472",
+    "credits": 3,
+    "section": "02",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1230-1345",
+    "instructor": "أفيجت  باسو",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200307",
+    "name": "الاقتصاد الهندسي",
+    "crn": "59968",
+    "credits": 3,
+    "section": "03",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": "أفيجت  باسو",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200307",
+    "name": "الاقتصاد الهندسي",
+    "crn": "60403",
+    "credits": 3,
+    "section": "04",
+    "days": [
+      1,
+      3
+    ],
+    "time": "1600-1715",
+    "instructor": "أفيجت  باسو",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200307",
+    "name": "الاقتصاد الهندسي",
+    "crn": "56548",
+    "credits": 3,
+    "section": "1",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1430-1545",
+    "instructor": "أفيجت  باسو",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2203309",
+    "name": "مقدمه في الاحصاء و الاحتمالات",
+    "crn": "58011",
+    "credits": 2,
+    "section": "01",
+    "days": [
+      1,
+      5
+    ],
+    "time": "0930-1020",
+    "instructor": "قمر  الاسلام",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2203335",
+    "name": "هيدرولوجيا",
+    "crn": "58012",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      1,
+      5
+    ],
+    "time": "1030-1145",
+    "instructor": "محيط  الرحمان",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2203340",
+    "name": "هندسة الطرق",
+    "crn": "58013",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      1,
+      5
+    ],
+    "time": "1030-1145",
+    "instructor": "عارف  الزمان",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "0622292",
+    "name": "أساسيات ومهارات الإدارة",
+    "crn": "47958",
+    "credits": 3,
+    "section": "02",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1230-1345",
+    "instructor": "عويس محمد محمد",
+    "semster_index": 7,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0622292",
+    "name": "أساسيات ومهارات الإدارة",
+    "crn": "58871",
+    "credits": 3,
+    "section": "03",
+    "days": [
+      1,
+      5
+    ],
+    "time": "1230-1345",
+    "instructor": "عويس محمد محمد",
+    "semster_index": 7,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "0622292",
+    "name": "أساسيات ومهارات الإدارة",
+    "crn": "47956",
+    "credits": 3,
+    "section": "30",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1400-1515",
+    "instructor": " ",
+    "semster_index": 7,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2203345",
+    "name": "ادارة المشاريع",
+    "crn": "42733",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "0830-0920",
+    "instructor": "عصام محمد حسين",
+    "semster_index": 7,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2203495",
+    "name": "مشروع تخرج 1",
+    "crn": "41288",
+    "credits": 2,
+    "section": "01",
+    "days": [
+      2
+    ],
+    "time": "1830-1945",
+    "instructor": "كفاية الله خان محمد حياة",
+    "semster_index": 7,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2203495",
+    "name": "مشروع تخرج 1",
+    "crn": "48370",
+    "credits": 2,
+    "section": "02",
+    "days": [
+      2
+    ],
+    "time": "1830-1945",
+    "instructor": "كفاية الله خان محمد حياة",
+    "semster_index": 7,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2203495",
+    "name": "مشروع تخرج 1",
+    "crn": "48371",
+    "credits": 2,
+    "section": "03",
+    "days": [
+      2
+    ],
+    "time": "1830-1945",
+    "instructor": "قمر  الاسلام",
+    "semster_index": 7,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2203495",
+    "name": "مشروع تخرج 1",
+    "crn": "48372",
+    "credits": 2,
+    "section": "04",
+    "days": [
+      2
+    ],
+    "time": "1830-1945",
+    "instructor": " ",
+    "semster_index": 7,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2203495",
+    "name": "مشروع تخرج 1",
+    "crn": "48373",
+    "credits": 2,
+    "section": "05",
+    "days": [
+      2
+    ],
+    "time": "1830-1945",
+    "instructor": "هشام  القرشي",
+    "semster_index": 7,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2203495",
+    "name": "مشروع تخرج 1",
+    "crn": "48375",
+    "credits": 2,
+    "section": "07",
+    "days": [
+      2
+    ],
+    "time": "1830-1945",
+    "instructor": " ",
+    "semster_index": 7,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2203495",
+    "name": "مشروع تخرج 1",
+    "crn": "48374",
+    "credits": 2,
+    "section": "60",
+    "days": [
+      2
+    ],
+    "time": "1830-1945",
+    "instructor": "فيصل ابراهيم شلبي",
+    "semster_index": 7,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2203470",
+    "name": "مواصفات وعقود",
+    "crn": "36582",
+    "credits": 2,
+    "section": "01",
+    "days": [
+      1,
+      5
+    ],
+    "time": "0930-1020",
+    "instructor": "هشام  القرشي",
+    "semster_index": 7,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200206",
+    "name": "دوائر كهربائية",
+    "crn": "34662",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": "راجا محمد شمس الدين",
+    "semster_index": 8,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200206",
+    "name": "دوائر كهربائية",
+    "crn": "44738",
+    "credits": 3,
+    "section": "02",
+    "days": [
+      2,
+      4
+    ],
+    "time": "0900-1015",
+    "instructor": "راجا محمد شمس الدين",
+    "semster_index": 8,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200206",
+    "name": "دوائر كهربائية",
+    "crn": "60401",
+    "credits": 3,
+    "section": "03",
+    "days": [
+      1,
+      3
+    ],
+    "time": "1700-1815",
+    "instructor": "رشيد مازن فارس عبدالقادر",
+    "semster_index": 8,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2203496",
+    "name": "مشروع تخرج 2",
+    "crn": "44749",
+    "credits": 2,
+    "section": "01",
+    "days": [
+      4
+    ],
+    "time": "1830-1945",
+    "instructor": "عارف  الزمان",
+    "semster_index": 8,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2203496",
+    "name": "مشروع تخرج 2",
+    "crn": "48379",
+    "credits": 2,
+    "section": "02",
+    "days": [
+      4
+    ],
+    "time": "1830-1945",
+    "instructor": " ",
+    "semster_index": 8,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2203496",
+    "name": "مشروع تخرج 2",
+    "crn": "48380",
+    "credits": 2,
+    "section": "03",
+    "days": [
+      4
+    ],
+    "time": "1830-1945",
+    "instructor": "محيط  الرحمان",
+    "semster_index": 8,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2203496",
+    "name": "مشروع تخرج 2",
+    "crn": "48381",
+    "credits": 2,
+    "section": "04",
+    "days": [
+      4
+    ],
+    "time": "1830-1945",
+    "instructor": " ",
+    "semster_index": 8,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2203496",
+    "name": "مشروع تخرج 2",
+    "crn": "48382",
+    "credits": 2,
+    "section": "05",
+    "days": [
+      4
+    ],
+    "time": "1830-1945",
+    "instructor": "عبدالرحمن فهد الفهيد",
+    "semster_index": 8,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2201202",
+    "name": "ديناميكا حرارية 1",
+    "crn": "26805",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      1,
+      5
+    ],
+    "time": "1030-1145",
+    "instructor": "محمد أنور إسماعيل",
+    "semster_index": 8,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0814141"
+    ],
+    "available": "Available"
+  },
+  {
+    "code": "7401401",
+    "name": "النظام الاجتماعي في الإسلام",
+    "crn": "49628",
+    "credits": 2,
+    "section": "نA",
+    "days": [
+      3
+    ],
+    "time": "2200-2225",
+    "instructor": " ",
+    "semster_index": 9,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "7401317",
+    "name": "الأخلاق الإسلامية وآداب المهنة",
+    "crn": "49625",
+    "credits": 2,
+    "section": "نA",
+    "days": [
+      5
+    ],
+    "time": "1730-1759",
+    "instructor": " ",
+    "semster_index": 9,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2203451",
+    "name": "معالجة المياه ومياه الصرف الصح",
+    "crn": "58016",
+    "credits": 3,
+    "section": "35",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": "محيط  الرحمان",
+    "semster_index": 10,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2203462",
+    "name": "تصميم خرسانة متقدم",
+    "crn": "59489",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "1230-1320",
+    "instructor": "محمد  امين",
+    "semster_index": 10,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2203411",
+    "name": "هندسة المواصلات",
+    "crn": "42735",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      1,
+      3,
+      5
+    ],
+    "time": "1230-1320",
+    "instructor": "قمر  الاسلام",
+    "semster_index": 10,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  }
+]
