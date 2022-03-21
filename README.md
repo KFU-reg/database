@@ -1,5 +1,5 @@
 # database
-2
+
 Raw JSON databse for kfu's courses and available classes
 
 see:
