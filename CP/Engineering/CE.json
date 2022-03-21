@@ -2189,6 +2189,60 @@
     "available": "Available"
   },
   {
+    "code": "2200201",
+    "name": "ستاتيكا",
+    "crn": "62406",
+    "credits": 3,
+    "section": "1",
+    "days": [
+      1,
+      5
+    ],
+    "time": "1030-1145",
+    "instructor": " ",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200201",
+    "name": "ستاتيكا",
+    "crn": "62407",
+    "credits": 3,
+    "section": "2",
+    "days": [
+      2,
+      4
+    ],
+    "time": "0900-1015",
+    "instructor": "محيط  الرحمان",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200201",
+    "name": "ستاتيكا",
+    "crn": "62408",
+    "credits": 3,
+    "section": "3",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": "قمر  الاسلام",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
     "code": "0817240",
     "name": "معادلات تفاضلية",
     "crn": "26720",
@@ -2619,6 +2673,57 @@
     "available": "Available"
   },
   {
+    "code": "2200209",
+    "name": "مختبر مقاومة مواد",
+    "crn": "62409",
+    "credits": 1,
+    "section": "1",
+    "days": [
+      1
+    ],
+    "time": "1700-1950",
+    "instructor": " ",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200209",
+    "name": "مختبر مقاومة مواد",
+    "crn": "62410",
+    "credits": 1,
+    "section": "2",
+    "days": [
+      2
+    ],
+    "time": "1530-1820",
+    "instructor": " ",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200209",
+    "name": "مختبر مقاومة مواد",
+    "crn": "62411",
+    "credits": 1,
+    "section": "3",
+    "days": [
+      5
+    ],
+    "time": "1330-1620",
+    "instructor": " ",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
     "code": "2200309",
     "name": "ميكانيكا الموائع",
     "crn": "34694",
@@ -2692,6 +2797,78 @@
     "available": "Available"
   },
   {
+    "code": "2200310",
+    "name": "طرق الحل العددية",
+    "crn": "62412",
+    "credits": 3,
+    "section": "1",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": "مشهور اسماعيل يوسيف طرايره",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200310",
+    "name": "طرق الحل العددية",
+    "crn": "62413",
+    "credits": 3,
+    "section": "2",
+    "days": [
+      2,
+      4
+    ],
+    "time": "0900-1015",
+    "instructor": "مشهور اسماعيل يوسيف طرايره",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200310",
+    "name": "طرق الحل العددية",
+    "crn": "62414",
+    "credits": 3,
+    "section": "3",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": "سيد صادق علي",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200310",
+    "name": "طرق الحل العددية",
+    "crn": "62415",
+    "credits": 3,
+    "section": "4",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1700-1815",
+    "instructor": "سيد صادق علي",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
     "code": "2200307",
     "name": "الاقتصاد الهندسي",
     "crn": "36472",
@@ -2757,6 +2934,57 @@
     ],
     "time": "1430-1545",
     "instructor": "أفيجت  باسو",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200312",
+    "name": "مختبر مكانيكا الموائع",
+    "crn": "62405",
+    "credits": 1,
+    "section": "01",
+    "days": [
+      5
+    ],
+    "time": "1400-1650",
+    "instructor": " ",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200312",
+    "name": "مختبر مكانيكا الموائع",
+    "crn": "62416",
+    "credits": 1,
+    "section": "2",
+    "days": [
+      2
+    ],
+    "time": "1730-2020",
+    "instructor": "مناف  هدهد",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200312",
+    "name": "مختبر مكانيكا الموائع",
+    "crn": "62417",
+    "credits": 1,
+    "section": "3",
+    "days": [
+      4
+    ],
+    "time": "1730-2020",
+    "instructor": "مناف  هدهد",
     "semster_index": 6,
     "college_allowed": true,
     "major_allowed": true,

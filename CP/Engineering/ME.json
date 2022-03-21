@@ -2231,6 +2231,128 @@
     "available": "Available"
   },
   {
+    "code": "2200201",
+    "name": "ستاتيكا",
+    "crn": "62406",
+    "credits": 3,
+    "section": "1",
+    "days": [
+      1,
+      5
+    ],
+    "time": "1030-1145",
+    "instructor": " ",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200201",
+    "name": "ستاتيكا",
+    "crn": "62407",
+    "credits": 3,
+    "section": "2",
+    "days": [
+      2,
+      4
+    ],
+    "time": "0900-1015",
+    "instructor": "محيط  الرحمان",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200201",
+    "name": "ستاتيكا",
+    "crn": "62408",
+    "credits": 3,
+    "section": "3",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": "قمر  الاسلام",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2201102",
+    "name": "رسم هندسي ميكانيكي",
+    "crn": "62418",
+    "credits": 1,
+    "section": "1",
+    "days": [
+      3
+    ],
+    "time": "1400-1650",
+    "instructor": "بهاء الدين  العرب",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2201102",
+    "name": "رسم هندسي ميكانيكي",
+    "crn": "62419",
+    "credits": 1,
+    "section": "2",
+    "days": [
+      4
+    ],
+    "time": "1400-1650",
+    "instructor": "بهاء الدين  العرب",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2201102",
+    "name": "رسم هندسي ميكانيكي",
+    "crn": "62420",
+    "credits": 1,
+    "section": "3",
+    "days": [
+      5
+    ],
+    "time": "1400-1650",
+    "instructor": "بهاء الدين  العرب",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2201102",
+    "name": "رسم هندسي ميكانيكي",
+    "crn": "62421",
+    "credits": 1,
+    "section": "4",
+    "days": [
+      1
+    ],
+    "time": "1400-1650",
+    "instructor": "بهاء الدين  العرب",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
     "code": "1722138",
     "name": "اساسيات التواصل الخطابي",
     "crn": "39232",
@@ -2388,6 +2510,44 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2201206",
+    "name": "اجهزة وقياسات",
+    "crn": "62424",
+    "credits": 2,
+    "section": "1",
+    "days": [
+      1
+    ],
+    "time": "1500-1650",
+    "instructor": "حسين  التمار",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "2200206"
+    ],
+    "available": "Available"
+  },
+  {
+    "code": "2201206",
+    "name": "اجهزة وقياسات",
+    "crn": "62425",
+    "credits": 2,
+    "section": "2",
+    "days": [
+      1
+    ],
+    "time": "1700-1850",
+    "instructor": " ",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "2200206"
+    ],
     "available": "Available"
   },
   {
@@ -2713,6 +2873,57 @@
     "available": "UnAvailable"
   },
   {
+    "code": "2200209",
+    "name": "مختبر مقاومة مواد",
+    "crn": "62409",
+    "credits": 1,
+    "section": "1",
+    "days": [
+      1
+    ],
+    "time": "1700-1950",
+    "instructor": " ",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200209",
+    "name": "مختبر مقاومة مواد",
+    "crn": "62410",
+    "credits": 1,
+    "section": "2",
+    "days": [
+      2
+    ],
+    "time": "1530-1820",
+    "instructor": " ",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200209",
+    "name": "مختبر مقاومة مواد",
+    "crn": "62411",
+    "credits": 1,
+    "section": "3",
+    "days": [
+      5
+    ],
+    "time": "1330-1620",
+    "instructor": " ",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
     "code": "2201331",
     "name": "نظرية الآلات",
     "crn": "36490",
@@ -2747,6 +2958,78 @@
     "major_allowed": true,
     "co_req": [],
     "available": "UnAvailable"
+  },
+  {
+    "code": "2200310",
+    "name": "طرق الحل العددية",
+    "crn": "62412",
+    "credits": 3,
+    "section": "1",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": "مشهور اسماعيل يوسيف طرايره",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200310",
+    "name": "طرق الحل العددية",
+    "crn": "62413",
+    "credits": 3,
+    "section": "2",
+    "days": [
+      2,
+      4
+    ],
+    "time": "0900-1015",
+    "instructor": "مشهور اسماعيل يوسيف طرايره",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200310",
+    "name": "طرق الحل العددية",
+    "crn": "62414",
+    "credits": 3,
+    "section": "3",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": "سيد صادق علي",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200310",
+    "name": "طرق الحل العددية",
+    "crn": "62415",
+    "credits": 3,
+    "section": "4",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1700-1815",
+    "instructor": "سيد صادق علي",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
   },
   {
     "code": "2201203",
@@ -2929,6 +3212,57 @@
     "available": "Available"
   },
   {
+    "code": "2200312",
+    "name": "مختبر مكانيكا الموائع",
+    "crn": "62405",
+    "credits": 1,
+    "section": "01",
+    "days": [
+      5
+    ],
+    "time": "1400-1650",
+    "instructor": " ",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2200312",
+    "name": "مختبر مكانيكا الموائع",
+    "crn": "62416",
+    "credits": 1,
+    "section": "2",
+    "days": [
+      2
+    ],
+    "time": "1730-2020",
+    "instructor": "مناف  هدهد",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200312",
+    "name": "مختبر مكانيكا الموائع",
+    "crn": "62417",
+    "credits": 1,
+    "section": "3",
+    "days": [
+      4
+    ],
+    "time": "1730-2020",
+    "instructor": "مناف  هدهد",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
     "code": "2201333",
     "name": "ديناميكا النظم",
     "crn": "39177",
@@ -2978,6 +3312,40 @@
     ],
     "time": "0900-1015",
     "instructor": "محمد السيد صابر حسن بدر",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2201204",
+    "name": "مختبر الديناميكا الحرارية",
+    "crn": "62422",
+    "credits": 1,
+    "section": "1",
+    "days": [
+      1
+    ],
+    "time": "1330-1620",
+    "instructor": "مناف  هدهد",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2201204",
+    "name": "مختبر الديناميكا الحرارية",
+    "crn": "62423",
+    "credits": 1,
+    "section": "2",
+    "days": [
+      5
+    ],
+    "time": "1400-1650",
+    "instructor": "مناف  هدهد",
     "semster_index": 6,
     "college_allowed": true,
     "major_allowed": true,

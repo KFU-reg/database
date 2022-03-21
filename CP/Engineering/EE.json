@@ -2726,6 +2726,78 @@
     "available": "Available"
   },
   {
+    "code": "2200310",
+    "name": "طرق الحل العددية",
+    "crn": "62412",
+    "credits": 3,
+    "section": "1",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": "مشهور اسماعيل يوسيف طرايره",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200310",
+    "name": "طرق الحل العددية",
+    "crn": "62413",
+    "credits": 3,
+    "section": "2",
+    "days": [
+      2,
+      4
+    ],
+    "time": "0900-1015",
+    "instructor": "مشهور اسماعيل يوسيف طرايره",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200310",
+    "name": "طرق الحل العددية",
+    "crn": "62414",
+    "credits": 3,
+    "section": "3",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": "سيد صادق علي",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2200310",
+    "name": "طرق الحل العددية",
+    "crn": "62415",
+    "credits": 3,
+    "section": "4",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1700-1815",
+    "instructor": "سيد صادق علي",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
     "code": "2202335",
     "name": "نظم الطاقة والقدرة الكهربائية",
     "crn": "42729",
@@ -3074,7 +3146,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "7401401",
