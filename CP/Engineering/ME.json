@@ -2139,7 +2139,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Full"
+    "available": "Available"
   },
   {
     "code": "0901204",
@@ -2193,7 +2193,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "0901204",
@@ -2521,7 +2521,7 @@
     "days": [
       1
     ],
-    "time": "1400-1450",
+    "time": "1500-1650",
     "instructor": "حسين  التمار",
     "semster_index": 4,
     "college_allowed": true,
@@ -2540,7 +2540,7 @@
     "days": [
       1
     ],
-    "time": "1400-1450",
+    "time": "1700-1850",
     "instructor": " ",
     "semster_index": 4,
     "college_allowed": true,
