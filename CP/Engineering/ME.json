@@ -1800,6 +1800,101 @@
     "available": "Available"
   },
   {
+    "code": "2200105",
+    "name": "مهارات حاسوبية هندسية",
+    "crn": "62426",
+    "credits": 2,
+    "section": "01",
+    "days": [
+      1
+    ],
+    "time": "1330-1520",
+    "instructor": "عبدالعزيز فهد الغليقة",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0817145"
+    ],
+    "available": "Available"
+  },
+  {
+    "code": "2200105",
+    "name": "مهارات حاسوبية هندسية",
+    "crn": "62427",
+    "credits": 2,
+    "section": "02",
+    "days": [
+      2
+    ],
+    "time": "1400-1600",
+    "instructor": "عبدالعزيز فهد الغليقة",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0817145"
+    ],
+    "available": "Available"
+  },
+  {
+    "code": "2200105",
+    "name": "مهارات حاسوبية هندسية",
+    "crn": "62428",
+    "credits": 2,
+    "section": "03",
+    "days": [
+      3
+    ],
+    "time": "1330-1520",
+    "instructor": "عبدالعزيز فهد الغليقة",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0817145"
+    ],
+    "available": "Available"
+  },
+  {
+    "code": "2200105",
+    "name": "مهارات حاسوبية هندسية",
+    "crn": "62429",
+    "credits": 2,
+    "section": "04",
+    "days": [
+      4
+    ],
+    "time": "0830-1020",
+    "instructor": "عبدالعزيز فهد الغليقة",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0817145"
+    ],
+    "available": "Available"
+  },
+  {
+    "code": "2200105",
+    "name": "مهارات حاسوبية هندسية",
+    "crn": "62430",
+    "credits": 2,
+    "section": "05",
+    "days": [
+      1
+    ],
+    "time": "0830-1020",
+    "instructor": "عبدالعزيز فهد الغليقة",
+    "semster_index": 2,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "0817145"
+    ],
+    "available": "Available"
+  },
+  {
     "code": "0817145",
     "name": "تفاضل وتكامل 2",
     "crn": "58529",
@@ -2193,7 +2288,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Full"
+    "available": "Available"
   },
   {
     "code": "0901204",
@@ -2521,7 +2616,7 @@
     "days": [
       1
     ],
-    "time": "1500-1650",
+    "time": "1400-1450",
     "instructor": "حسين  التمار",
     "semster_index": 4,
     "college_allowed": true,
@@ -3371,6 +3466,40 @@
     "available": "Full"
   },
   {
+    "code": "2201425",
+    "name": "معمل النظم الميكانيكية",
+    "crn": "62431",
+    "credits": 1,
+    "section": "01",
+    "days": [
+      3
+    ],
+    "time": "1300-1620",
+    "instructor": "مناف  هدهد",
+    "semster_index": 7,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2201425",
+    "name": "معمل النظم الميكانيكية",
+    "crn": "62432",
+    "credits": 1,
+    "section": "02",
+    "days": [
+      4
+    ],
+    "time": "1400-1650",
+    "instructor": "مناف  هدهد",
+    "semster_index": 7,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
     "code": "7401301",
     "name": "قضايا ثقافية معاصرة",
     "crn": "49622",
@@ -3678,6 +3807,24 @@
     "major_allowed": true,
     "co_req": [],
     "available": "Full"
+  },
+  {
+    "code": "2201460",
+    "name": "عمليات التصنيع",
+    "crn": "62433",
+    "credits": 3,
+    "section": "02",
+    "days": [
+      1,
+      3
+    ],
+    "time": "1230-1345",
+    "instructor": "اكبر  نياز",
+    "semster_index": 8,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
   },
   {
     "code": "2201442",
