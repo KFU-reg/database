@@ -1742,7 +1742,7 @@
     "co_req": [
       "0814141"
     ],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "0815142",
@@ -1816,7 +1816,7 @@
     "co_req": [
       "0817145"
     ],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2200105",
@@ -1835,7 +1835,7 @@
     "co_req": [
       "0817145"
     ],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2200105",
@@ -1854,7 +1854,7 @@
     "co_req": [
       "0817145"
     ],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2200105",
@@ -1873,7 +1873,7 @@
     "co_req": [
       "0817145"
     ],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2200105",
@@ -1929,7 +1929,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "0817145",
@@ -1984,7 +1984,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "1722134",
@@ -2052,7 +2052,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "1722138",
@@ -2069,7 +2069,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "1722138",
@@ -2173,7 +2173,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "0816140",
@@ -2192,7 +2192,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "7401101",
@@ -2228,7 +2228,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2204203",
@@ -2376,7 +2376,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "0817240",
@@ -2433,7 +2433,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2200206",
@@ -2451,7 +2451,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2200206",
@@ -2469,7 +2469,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2200223",
@@ -2524,7 +2524,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "0901204",
@@ -2578,7 +2578,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "0901204",
@@ -2596,7 +2596,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "0622292",
@@ -2614,7 +2614,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "0622292",
@@ -2833,7 +2833,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Full"
+    "available": "Available"
   },
   {
     "code": "2200310",
@@ -2868,7 +2868,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "1722137",
