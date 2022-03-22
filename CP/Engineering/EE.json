@@ -2191,7 +2191,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Full"
+    "available": "Available"
   },
   {
     "code": "0817240",
@@ -2372,6 +2372,63 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2202247",
+    "name": "معمل دوائر كهربائية",
+    "crn": "62441",
+    "credits": 1,
+    "section": "01",
+    "days": [
+      1
+    ],
+    "time": "1400-1650",
+    "instructor": " ",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "2202241"
+    ],
+    "available": "Available"
+  },
+  {
+    "code": "2202247",
+    "name": "معمل دوائر كهربائية",
+    "crn": "62442",
+    "credits": 1,
+    "section": "02",
+    "days": [
+      2
+    ],
+    "time": "1400-1650",
+    "instructor": " ",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "2202241"
+    ],
+    "available": "Available"
+  },
+  {
+    "code": "2202247",
+    "name": "معمل دوائر كهربائية",
+    "crn": "62443",
+    "credits": 1,
+    "section": "03",
+    "days": [
+      5
+    ],
+    "time": "1400-1650",
+    "instructor": " ",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "2202241"
+    ],
     "available": "Available"
   },
   {
@@ -2695,6 +2752,42 @@
     "available": "Available"
   },
   {
+    "code": "2202233",
+    "name": "المعالجات الدقيقة",
+    "crn": "62437",
+    "credits": 3,
+    "section": "02",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1230-1345",
+    "instructor": " ",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2202331",
+    "name": "كهرومغناطيسية هندسية",
+    "crn": "62444",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": "علي أحمد ِأبوالنجا",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
     "code": "2202244",
     "name": "الكترونيات 2",
     "crn": "36495",
@@ -2764,6 +2857,63 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2202234",
+    "name": "معمل  المعالجات الدقيقة",
+    "crn": "62438",
+    "credits": 1,
+    "section": "01",
+    "days": [
+      2
+    ],
+    "time": "1400-1650",
+    "instructor": "سليم  شطورو",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "2202233"
+    ],
+    "available": "Available"
+  },
+  {
+    "code": "2202234",
+    "name": "معمل  المعالجات الدقيقة",
+    "crn": "62439",
+    "credits": 1,
+    "section": "02",
+    "days": [
+      5
+    ],
+    "time": "1230-1510",
+    "instructor": "سليم  شطورو",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "2202233"
+    ],
+    "available": "Available"
+  },
+  {
+    "code": "2202234",
+    "name": "معمل  المعالجات الدقيقة",
+    "crn": "62440",
+    "credits": 1,
+    "section": "03",
+    "days": [
+      5
+    ],
+    "time": "1530-1810",
+    "instructor": "سليم  شطورو",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "2202233"
+    ],
     "available": "Available"
   },
   {
@@ -2950,6 +3100,25 @@
     "available": "Available"
   },
   {
+    "code": "2202336",
+    "name": "معمل نظم الطاقةوالقدرةالكهربائ",
+    "crn": "62445",
+    "credits": 1,
+    "section": "01",
+    "days": [
+      3
+    ],
+    "time": "1400-1650",
+    "instructor": " ",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [
+      "2202335"
+    ],
+    "available": "UnAvailable"
+  },
+  {
     "code": "2202335",
     "name": "نظم الطاقة والقدرة الكهربائية",
     "crn": "42729",
@@ -2962,6 +3131,24 @@
     "time": "0900-1015",
     "instructor": "محمد  العقيل",
     "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2202429",
+    "name": "ميكاترونيكس",
+    "crn": "62446",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      1,
+      5
+    ],
+    "time": "1230-1345",
+    "instructor": "محمد علي ديكو",
+    "semster_index": 7,
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],

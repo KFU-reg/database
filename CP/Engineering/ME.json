@@ -2550,7 +2550,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Full"
+    "available": "Available"
   },
   {
     "code": "0817240",
@@ -2616,7 +2616,7 @@
     "days": [
       1
     ],
-    "time": "1400-1450",
+    "time": "1500-1650",
     "instructor": "حسين  التمار",
     "semster_index": 4,
     "college_allowed": true,
@@ -2635,7 +2635,7 @@
     "days": [
       1
     ],
-    "time": "1700-1850",
+    "time": "1400-1450",
     "instructor": " ",
     "semster_index": 4,
     "college_allowed": true,
@@ -2679,7 +2679,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Full"
+    "available": "Available"
   },
   {
     "code": "2200206",
@@ -3948,6 +3948,24 @@
     ],
     "time": "1030-1145",
     "instructor": "مفيد  مهدي",
+    "semster_index": 10,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2202429",
+    "name": "ميكاترونيكس",
+    "crn": "62446",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      1,
+      5
+    ],
+    "time": "1230-1345",
+    "instructor": "محمد علي ديكو",
     "semster_index": 10,
     "college_allowed": true,
     "major_allowed": true,
