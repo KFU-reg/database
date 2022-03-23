@@ -2228,7 +2228,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Full"
+    "available": "Available"
   },
   {
     "code": "1722138",
@@ -2282,6 +2282,42 @@
     "major_allowed": true,
     "co_req": [],
     "available": "Full"
+  },
+  {
+    "code": "2203272",
+    "name": "المساحه ونظام التحديد المكاني",
+    "crn": "62455",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      1,
+      5
+    ],
+    "time": "0930-1020",
+    "instructor": "عمار فايز الشايب",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2203272",
+    "name": "المساحه ونظام التحديد المكاني",
+    "crn": "62462",
+    "credits": 3,
+    "section": "02",
+    "days": [
+      1,
+      5
+    ],
+    "time": "1430-1720",
+    "instructor": "عمار فايز الشايب",
+    "semster_index": 3,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
   },
   {
     "code": "2200201",
@@ -2641,6 +2677,23 @@
     "available": "UnAvailable"
   },
   {
+    "code": "2203281",
+    "name": "معمل مواد إنشاء",
+    "crn": "62466",
+    "credits": 1,
+    "section": "01",
+    "days": [
+      3
+    ],
+    "time": "1430-1720",
+    "instructor": "عمار فايز الشايب",
+    "semster_index": 4,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
     "code": "2200202",
     "name": "مقاومه مواد",
     "crn": "34660",
@@ -2873,6 +2926,41 @@
     "available": "Full"
   },
   {
+    "code": "2203361",
+    "name": "معمل هندسة الحيو تقنية",
+    "crn": "62483",
+    "credits": 1,
+    "section": "01",
+    "days": [
+      1
+    ],
+    "time": "1330-1620",
+    "instructor": "كفاية الله خان محمد حياة",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2203310",
+    "name": "التحليل الإنشائي",
+    "crn": "62469",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1030-1145",
+    "instructor": "محمد  امين",
+    "semster_index": 5,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
     "code": "2203360",
     "name": "هندسة الجيو تقنية",
     "crn": "44745",
@@ -3033,7 +3121,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Full"
+    "available": "Available"
   },
   {
     "code": "2200312",
@@ -3105,6 +3193,23 @@
     "available": "Available"
   },
   {
+    "code": "2203341",
+    "name": "معمل هندسة الطرق",
+    "crn": "62473",
+    "credits": 1,
+    "section": "01",
+    "days": [
+      2
+    ],
+    "time": "1430-1720",
+    "instructor": "محمد انيق عول",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
     "code": "2203335",
     "name": "هيدرولوجيا",
     "crn": "58012",
@@ -3139,6 +3244,24 @@
     "major_allowed": true,
     "co_req": [],
     "available": "UnAvailable"
+  },
+  {
+    "code": "2203330",
+    "name": "تصميم خرسانة مسلحة",
+    "crn": "62471",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      2,
+      4
+    ],
+    "time": "0900-1015",
+    "instructor": "عبدالرحمن فهد الفهيد",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
   },
   {
     "code": "0622292",
@@ -3333,6 +3456,23 @@
     "available": "UnAvailable"
   },
   {
+    "code": "2203390",
+    "name": "رسم هندسي مدني",
+    "crn": "62485",
+    "credits": 1,
+    "section": "01",
+    "days": [
+      2
+    ],
+    "time": "0830-1020",
+    "instructor": "محمد انيق عول",
+    "semster_index": 7,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
     "code": "2203470",
     "name": "مواصفات وعقود",
     "crn": "36582",
@@ -3349,6 +3489,42 @@
     "major_allowed": true,
     "co_req": [],
     "available": "Available"
+  },
+  {
+    "code": "2203350",
+    "name": "هندسة البيئة",
+    "crn": "62477",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1230-1320",
+    "instructor": "زياد نايف شطناوي",
+    "semster_index": 7,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2203350",
+    "name": "هندسة البيئة",
+    "crn": "62480",
+    "credits": 3,
+    "section": "02",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1400-1530",
+    "instructor": "زياد نايف شطناوي",
+    "semster_index": 7,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
   },
   {
     "code": "2200206",

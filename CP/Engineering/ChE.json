@@ -2069,7 +2069,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Full"
+    "available": "Available"
   },
   {
     "code": "1722138",
@@ -3025,7 +3025,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Full"
+    "available": "Available"
   },
   {
     "code": "2204308",
@@ -3040,6 +3040,23 @@
     ],
     "time": "0830-0920",
     "instructor": "محمد راببيو ادو",
+    "semster_index": 6,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2204306",
+    "name": "مختبر الهندسة الكيميائية 1",
+    "crn": "62488",
+    "credits": 1,
+    "section": "01",
+    "days": [
+      2
+    ],
+    "time": "1430-1715",
+    "instructor": "محمد يوسف محمد يونس",
     "semster_index": 6,
     "college_allowed": true,
     "major_allowed": true,
@@ -3137,6 +3154,23 @@
     "available": "Available"
   },
   {
+    "code": "2204410",
+    "name": "مختبر تصميم العمليات بمساعدة ا",
+    "crn": "62492",
+    "credits": 1,
+    "section": "01",
+    "days": [
+      1
+    ],
+    "time": "1430-1715",
+    "instructor": "سيد صادق علي",
+    "semster_index": 7,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
     "code": "2204495",
     "name": "مشروع تخرج 1",
     "crn": "41321",
@@ -3205,6 +3239,23 @@
     "available": "UnAvailable"
   },
   {
+    "code": "2204405",
+    "name": "مختبر الهندسة الكيمياوية 2",
+    "crn": "62489",
+    "credits": 1,
+    "section": "01",
+    "days": [
+      3
+    ],
+    "time": "1430-1715",
+    "instructor": "سيد صادق علي",
+    "semster_index": 7,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
     "code": "2204403",
     "name": "عمليات الفصل 3",
     "crn": "42746",
@@ -3250,6 +3301,23 @@
     ],
     "time": "1830-1945",
     "instructor": "ابراهيم جاسم محمد دبدب",
+    "semster_index": 8,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2204406",
+    "name": "مختبر الهندسى الكيماوية 3",
+    "crn": "62491",
+    "credits": 1,
+    "section": "01",
+    "days": [
+      4
+    ],
+    "time": "1430-1715",
+    "instructor": "مجدي عادل أمين الفياض",
     "semster_index": 8,
     "college_allowed": true,
     "major_allowed": true,
@@ -3321,6 +3389,42 @@
     ],
     "time": "0930-1020",
     "instructor": "محمد يوسف محمد يونس",
+    "semster_index": 10,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2204430",
+    "name": "هندسة المبلمرات",
+    "crn": "62499",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      2,
+      4
+    ],
+    "time": "1230-1345",
+    "instructor": "محمد  اليعري",
+    "semster_index": 10,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "UnAvailable"
+  },
+  {
+    "code": "2204444",
+    "name": "تحلية المياة",
+    "crn": "62498",
+    "credits": 3,
+    "section": "01",
+    "days": [
+      1,
+      5
+    ],
+    "time": "1030-1145",
+    "instructor": "زيد عبدالحميد الحليبي",
     "semster_index": 10,
     "college_allowed": true,
     "major_allowed": true,

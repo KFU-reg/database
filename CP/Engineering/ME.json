@@ -2496,7 +2496,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Full"
+    "available": "Available"
   },
   {
     "code": "1722138",
@@ -2616,7 +2616,7 @@
     "days": [
       1
     ],
-    "time": "1500-1650",
+    "time": "1400-1450",
     "instructor": "حسين  التمار",
     "semster_index": 4,
     "college_allowed": true,
@@ -2635,7 +2635,7 @@
     "days": [
       1
     ],
-    "time": "1400-1450",
+    "time": "1700-1850",
     "instructor": " ",
     "semster_index": 4,
     "college_allowed": true,
@@ -3304,7 +3304,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Full"
+    "available": "Available"
   },
   {
     "code": "2200312",
@@ -3789,6 +3789,40 @@
     "major_allowed": true,
     "co_req": [],
     "available": "Full"
+  },
+  {
+    "code": "2201496",
+    "name": "المشروع تخرج 2",
+    "crn": "62500",
+    "credits": 2,
+    "section": "07",
+    "days": [
+      4
+    ],
+    "time": "1830-1945",
+    "instructor": "بهاء الدين  العرب",
+    "semster_index": 8,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
+  },
+  {
+    "code": "2201496",
+    "name": "المشروع تخرج 2",
+    "crn": "62501",
+    "credits": 2,
+    "section": "08",
+    "days": [
+      4
+    ],
+    "time": "1830-1945",
+    "instructor": "بهاء الدين  العرب",
+    "semster_index": 8,
+    "college_allowed": true,
+    "major_allowed": true,
+    "co_req": [],
+    "available": "Available"
   },
   {
     "code": "2201460",
