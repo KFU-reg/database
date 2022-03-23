@@ -1892,7 +1892,7 @@
     "co_req": [
       "0817145"
     ],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "0817145",
@@ -2616,7 +2616,7 @@
     "days": [
       1
     ],
-    "time": "1400-1450",
+    "time": "1500-1650",
     "instructor": "حسين  التمار",
     "semster_index": 4,
     "college_allowed": true,
@@ -3304,7 +3304,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2200312",
