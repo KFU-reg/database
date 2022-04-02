@@ -2252,7 +2252,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "0901204",
@@ -2462,7 +2462,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "1722138",
@@ -2496,7 +2496,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "1722138",
@@ -2513,7 +2513,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "0817240",
@@ -2635,7 +2635,7 @@
     "days": [
       1
     ],
-    "time": "1700-1850",
+    "time": "1400-1450",
     "instructor": " ",
     "semster_index": 4,
     "college_allowed": true,
@@ -3106,7 +3106,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2200310",
@@ -3393,7 +3393,7 @@
     "co_req": [
       "2200309"
     ],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2201332",
@@ -3411,7 +3411,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2201204",
@@ -3497,7 +3497,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "7401301",
@@ -3720,7 +3720,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Full"
+    "available": "Available"
   },
   {
     "code": "2201496",
@@ -3737,7 +3737,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2201496",

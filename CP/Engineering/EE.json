@@ -2035,7 +2035,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "1722138",
@@ -2069,7 +2069,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "1722138",
@@ -2086,7 +2086,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "0815143",
@@ -2319,7 +2319,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "7401101",
@@ -2448,7 +2448,7 @@
     "co_req": [
       "2202231"
     ],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2202232",
@@ -2522,7 +2522,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "0901204",
@@ -2749,7 +2749,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2202233",
@@ -2785,7 +2785,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2202244",
@@ -2821,7 +2821,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2202330",
@@ -3079,7 +3079,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2200310",
@@ -3273,7 +3273,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Full"
+    "available": "Available"
   },
   {
     "code": "2202431",
@@ -3398,7 +3398,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2202496",
@@ -3505,7 +3505,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Full"
+    "available": "Available"
   },
   {
     "code": "7401401",

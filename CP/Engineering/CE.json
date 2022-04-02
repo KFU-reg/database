@@ -2194,7 +2194,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "1722138",
@@ -2228,7 +2228,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "1722138",
@@ -2245,7 +2245,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "7401101",
@@ -2311,7 +2311,7 @@
       1,
       5
     ],
-    "time": "0930-1020",
+    "time": "1430-1720",
     "instructor": "عمار فايز الشايب",
     "semster_index": 3,
     "college_allowed": true,
@@ -2764,7 +2764,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "0901204",
@@ -2940,7 +2940,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2203310",
@@ -3031,7 +3031,7 @@
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2200310",
@@ -3500,13 +3500,13 @@
       2,
       4
     ],
-    "time": "1400-1530",
+    "time": "1230-1320",
     "instructor": "زياد نايف شطناوي",
     "semster_index": 7,
     "college_allowed": true,
     "major_allowed": true,
     "co_req": [],
-    "available": "Available"
+    "available": "Full"
   },
   {
     "code": "2203350",
@@ -3518,7 +3518,7 @@
       2,
       4
     ],
-    "time": "1400-1530",
+    "time": "1230-1320",
     "instructor": "زياد نايف شطناوي",
     "semster_index": 7,
     "college_allowed": true,
